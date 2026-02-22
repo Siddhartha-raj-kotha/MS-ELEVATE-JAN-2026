@@ -48,7 +48,7 @@ fitness/
 Clone the Repository:
 
 Bash
-git clone https://github.com/Siddhartha-raj-kotha/ProFit-AI.git
+git clone https://github.com/Siddhartha-raj-kotha/MS-ELEVATE-JAN-2026.git
 cd ProFit-AI
 Install Dependencies:
 
