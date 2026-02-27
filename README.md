@@ -48,7 +48,7 @@ fitness/
 Clone the Repository:
 
 Bash
-git clone https://github.com/Siddhartha-raj-kotha/MS-ELEVATE-JAN-2026.git
+git clone https://github.com/Siddhartha-raj-kotha/AICTE-BATCH-7-JAN-2026
 cd ProFit-AI
 Install Dependencies:
 
